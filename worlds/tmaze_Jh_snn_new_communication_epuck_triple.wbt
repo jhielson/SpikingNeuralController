@@ -1,0 +1,723 @@
+#VRML_SIM R2019a utf8
+DEF _ WorldInfo {
+}
+Viewpoint {
+  orientation 0.9999964931523633 -0.0018703139824778371 -0.00187499562192169 4.709885473541879
+  position 0.4907100405499218 13.531507705296862 0.9000070593042686
+  follow "rectangle arena2"
+}
+Background {
+  skyColor [
+    0 0.7 1
+  ]
+}
+RectangleArena {
+  translation 1.03 0 0.01
+  name "rectangle arena1"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t2.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+RectangleArena {
+  translation 1.03 0 2.01
+  name "rectangle arena1(1)"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t2.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+RectangleArena {
+  translation 1.03 0 4.01
+  name "rectangle arena1(2)"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t2.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+RectangleArena {
+  translation 0 0 0.01
+  name "rectangle arena2"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+RectangleArena {
+  translation 0 0 2.01
+  name "rectangle arena2(1)"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+RectangleArena {
+  translation 0 0 4.01
+  name "rectangle arena2(2)"
+  floorSize 1 1.5
+  floorTileSize 1 1
+  floorAppearance PBRAppearance {
+    baseColorMap ImageTexture {
+      url [
+        "textures/t.jpg"
+      ]
+    }
+    roughness 1
+    metalness 0
+  }
+}
+PointLight {
+  attenuation 1 1 1
+  location 0 0.3 0
+  radius 10
+}
+PointLight {
+  attenuation 1 1 1
+  location 0 0.3 2
+  radius 10
+}
+PointLight {
+  attenuation 1 1 1
+  location 0 0.3 4
+  radius 10
+}
+PointLight {
+  location 1.1 0.3 0
+  radius 10
+}
+PointLight {
+  location 1.1 0.3 2
+  radius 10
+}
+PointLight {
+  location 1.1 0.3 4
+  radius 10
+}
+DEF wall2_2 Solid {
+  translation 0.744443 0.05 1.38
+  children [
+    Solid {
+      translation 0.21 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid21"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.36000000000000004 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid22"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid23"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.56 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid24"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+  ]
+  name "solid2"
+}
+DEF wall2_3 Solid {
+  translation 0.744443 0.05 3.38
+  children [
+    Solid {
+      translation 0.21 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid21"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.36000000000000004 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid22"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid23"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.56 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid24"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+  ]
+  name "solid2(2)"
+}
+DEF wall2_1 Solid {
+  translation 0.744443 0.05 -0.6200000000000002
+  children [
+    Solid {
+      translation 0.21 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid21"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.36000000000000004 0 0.6780000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid22"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid23"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.56 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.45 0.1 0.025
+          }
+        }
+      ]
+      name "solid24"
+      boundingObject Box {
+        size 0.45 0.1 0.025
+      }
+    }
+  ]
+  name "solid2(1)"
+}
+DEF wall1_1 Solid {
+  translation -0.3 0.04 -0.6200000000000002
+  children [
+    Solid {
+      translation 0.18999999999999997 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid11"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.42 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid12"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      scale 1.0034478226332515 1.0034478226332515 1.0034478226332515
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid13"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.61 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid14"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+  ]
+  name "solid1"
+}
+DEF wall1_2 Solid {
+  translation -0.3 0.04 1.38
+  children [
+    Solid {
+      translation 0.18999999999999997 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid11"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.42 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid12"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      scale 1.0034478226332515 1.0034478226332515 1.0034478226332515
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid13"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.61 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid14"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+  ]
+  name "solid1(1)"
+}
+DEF wall1_3 Solid {
+  translation -0.3 0.04 3.38
+  children [
+    Solid {
+      translation 0.18999999999999997 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid11"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation 0.42 0 0.6880000000000003
+      scale 2.1 2.1 2.1
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.025 0.1 0.66
+          }
+        }
+      ]
+      name "solid12"
+      boundingObject Box {
+        size 0.025 0.1 0.65
+      }
+    }
+    Solid {
+      translation -0.01 0 0
+      scale 1.0034478226332515 1.0034478226332515 1.0034478226332515
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid13"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+    Solid {
+      translation 0.61 0 0
+      children [
+        Shape {
+          appearance Appearance {
+            material Material {
+            }
+          }
+          geometry Box {
+            size 0.4 0.1 0.025
+          }
+        }
+      ]
+      name "solid14"
+      boundingObject Box {
+        size 0.4 0.1 0.025
+      }
+    }
+  ]
+  name "solid1(2)"
+}
+DEF GA_1 Robot {
+  translation 0.1 0 0.1
+  children [
+    Receiver {
+      channel 2
+    }
+    Emitter {
+      channel 1
+    }
+    Display {
+      width 200
+      height 100
+    }
+  ]
+  name "Supervisor"
+  controller "rnnGAsupervisor_Jh"
+  supervisor TRUE
+}
+DEF GA_2 Robot {
+  translation 0.2 0 2.2
+  children [
+    Receiver {
+      name "receiver_2"
+      channel 4
+    }
+    Emitter {
+      name "emitter_2"
+      channel 3
+    }
+    Display {
+      width 200
+      height 100
+    }
+  ]
+  name "Supervisor(1)"
+  controller "rnnGAsupervisor_Jh_2"
+  supervisor TRUE
+}
+DEF GA_3 Robot {
+  translation 0.30000000000000004 0 4.3
+  children [
+    Receiver {
+      name "receiver_3"
+      channel 6
+    }
+    Emitter {
+      name "emitter_3"
+      channel 5
+    }
+    Display {
+      width 200
+      height 100
+    }
+  ]
+  name "Supervisor(2)"
+  controller "rnnGAsupervisor_Jh_3"
+  supervisor TRUE
+}
+DEF EPUCK_1 E-puck {
+  hidden position_0_0 213956.59455091922
+  hidden position_0_1 176875.22537877577
+  hidden rotation_1 -1 0 0 1.5684708399455634
+  hidden rotation_2 -1 0 0 3.5589816704060957
+  translation -0.005175413980243482 0 0.41426605655328663
+  rotation 0 1 0 0.1881617976549571
+  controller "snnGA_Jh"
+  supervisor TRUE
+  emitter_channel 2
+  groundSensorsSlot [
+    E-puckGroundSensors {
+    }
+  ]
+  kinematic TRUE
+}
+DEF EPUCK_2 E-puck {
+  hidden position_0_0 211740.00788625263
+  hidden position_0_1 172120.26090110338
+  hidden rotation_1 1 0 0 3.3369656994363313
+  hidden rotation_2 1 0 0 1.3174037742136753
+  translation -0.005740848884201343 0 2.40981
+  rotation 0 1 0 0.030319875886189764
+  name "e-puck(1)"
+  controller "snnGA_Jh_2"
+  supervisor TRUE
+  emitter_channel 4
+  receiver_channel 3
+  groundSensorsSlot [
+    E-puckGroundSensors {
+    }
+  ]
+  kinematic TRUE
+}
+DEF EPUCK_3 E-puck {
+  hidden position_0_0 210035.82036631147
+  hidden position_0_1 171906.40554115106
+  hidden rotation_1 -0.9999999999999999 0 0 1.501917912252365
+  hidden rotation_2 1 0 0 1.5444632824224915
+  translation 1.0401408150197315 0 4.323953351792101
+  rotation 0 1 0 -6.8832737203931735
+  name "e-puck(2)"
+  controller "snnGA_Jh_3"
+  supervisor TRUE
+  emitter_channel 6
+  receiver_channel 5
+  groundSensorsSlot [
+    E-puckGroundSensors {
+    }
+  ]
+  kinematic TRUE
+}

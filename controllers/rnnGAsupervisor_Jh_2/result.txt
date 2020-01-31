@@ -1,0 +1,1244 @@
+ 01 >> SNN >> Iterations 30 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 10 >> Deviation 10 
+ Mean 0.544000 SD 0.153180 
+
+ 02 >> SNN >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 10 >> Deviation 10 
+ Mean 0.433000 SD 0.082529 
+
+ 03 >> SNN >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 20 >> Deviation 10 
+ Mean 0.543000 SD 0.174502 
+
+ 04 >> SNN >> Iterations 70 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.604000 SD 0.180510 
+
+ 04 >> SNN >> Iterations 70 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.550000 SD 0.183576 
+
+ 04 >> SNN >> Iterations 70 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.588000 SD 0.169281 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.586000 SD 0.167940 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.547000 SD 0.171729 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.593000 SD 0.165079 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.576000 SD 0.153049 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.574000 SD 0.165300 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.373000 SD 0.128728 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.368000 SD 0.143443 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.783000 SD 0.141460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.788000 SD 0.138766 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.733000 SD 0.166166 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.682000 SD 0.193070 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.741000 SD 0.167389 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.689000 SD 0.189153 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.760000 SD 0.154272 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.739000 SD 0.158047 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.744000 SD 0.168713 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.674000 SD 0.161009 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.678000 SD 0.148714 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.997000 SD 0.017059 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.995000 SD 0.021795 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.991000 SD 0.031922 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.994000 SD 0.023749 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.995000 SD 0.021795 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.992000 SD 0.027129 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.997000 SD 0.017059 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.995000 SD 0.021795 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.999000 SD 0.009950 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.368000 SD 0.141336 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.545000 SD 0.090967 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.081462 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.073993 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.075333 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.075073 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.069886 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.071414 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.074693 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.934000 SD 0.087430 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.080119 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.084918 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.947000 SD 0.063961 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.071631 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.948000 SD 0.069971 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.083090 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.070965 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.072243 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.934000 SD 0.075127 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.077013 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.766000 SD 0.109745 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.888000 SD 0.150519 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.703000 SD 0.119545 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.424000 SD 0.153049 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.558333 SD 0.136168 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.563333 SD 0.132874 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.558333 SD 0.118732 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.298333 SD 0.162096 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.320000 SD 0.179010 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.960000 SD 0.077460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 1.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.084918 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.063396 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.953000 SD 0.068491 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.081240 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.075392 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.072629 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.930000 SD 0.081854 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.077460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.962000 SD 0.054369 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.078460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.077013 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.931000 SD 0.084493 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.066476 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.935000 SD 0.077942 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.077872 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.932000 SD 0.085884 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.935000 SD 0.077942 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.076282 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.073729 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.948000 SD 0.076785 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.083666 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.924000 SD 0.091782 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.956000 SD 0.068293 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.077872 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.947000 SD 0.069936 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.068374 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.079145 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.064031 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.068198 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.065452 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.074189 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.071070 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.947000 SD 0.071351 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.077531 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.067823 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.947000 SD 0.068491 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.947000 SD 0.079316 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.935000 SD 0.077942 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.073614 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.952000 SD 0.069971 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.076230 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.073614 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.077175 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.068088 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.073831 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.069130 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.076282 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.067082 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.955000 SD 0.062249 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.075333 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.927000 SD 0.078556 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.078301 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.077872 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.076394 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.078460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.080119 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.069541 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.070029 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.082771 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.927000 SD 0.092580 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.080647 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.073485 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.073485 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.949000 SD 0.080616 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.071302 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.072629 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.931000 SD 0.077065 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.063246 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.071239 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.925000 SD 0.087607 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.072243 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.078460 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.074693 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.082529 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.069742 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.080969 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.073614 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.065085 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.076837 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.076230 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.078607 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.066895 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.927000 SD 0.087012 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.078810 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.073485 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.935000 SD 0.075333 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.068198 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.080399 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.073485 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.089504 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.959000 SD 0.063396 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.065383 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.955000 SD 0.066895 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.078102 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.069419 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.935000 SD 0.075333 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.929000 SD 0.079114 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.066813 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.071414 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.926000 SD 0.089017 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.065810 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.925000 SD 0.076649 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.078810 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.933000 SD 0.081308 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.927000 SD 0.075967 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.066174 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.069886 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.072111 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.936000 SD 0.075525 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.948000 SD 0.071386 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.075703 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.929000 SD 0.082819 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.075333 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.959000 SD 0.072243 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.945000 SD 0.068374 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.946000 SD 0.060696 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.072553 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.937000 SD 0.071631 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.075868 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.066332 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.930000 SD 0.084261 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.944000 SD 0.071162 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.074833 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.932000 SD 0.082316 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.082680 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.070845 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.942000 SD 0.075073 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.078740 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.078740 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.948000 SD 0.081829 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.950000 SD 0.070000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.063647 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.943000 SD 0.073831 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.940000 SD 0.074833 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.932000 SD 0.082316 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.941000 SD 0.072243 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.075868 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.939000 SD 0.071965 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.923000 SD 0.085855 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.938000 SD 0.068964 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.547000 SD 0.106259 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.553000 SD 0.102426 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.560000 SD 0.098995 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.553000 SD 0.095347 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.543000 SD 0.088606 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.567000 SD 0.089504 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.964000 SD 0.053889 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.862000 SD 0.101764 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.855000 SD 0.117792 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.863000 SD 0.102621 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.857000 SD 0.096182 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.870000 SD 0.106301 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.863000 SD 0.099654 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.865000 SD 0.099373 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.850000 SD 0.106301 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.834000 SD 0.102196 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.844000 SD 0.098306 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.843000 SD 0.110684 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.867000 SD 0.111405 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.867000 SD 0.095974 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.858000 SD 0.103131 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.859000 SD 0.103049 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.867000 SD 0.098036 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.850000 SD 0.108167 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.865000 SD 0.096307 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.865000 SD 0.121140 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.834000 SD 0.106977 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.872000 SD 0.106846 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.843000 SD 0.101247 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.856000 SD 0.097283 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.860000 SD 0.101980 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.861000 SD 0.113044 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.865000 SD 0.094207 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.864000 SD 0.097488 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.856000 SD 0.096250 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.870000 SD 0.086603 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.848000 SD 0.112677 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.851000 SD 0.104398 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.856000 SD 0.114298 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.851000 SD 0.101484 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.830000 SD 0.110000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.851000 SD 0.116185 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.849000 SD 0.111799 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.859000 SD 0.116700 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.853000 SD 0.112654 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.874000 SD 0.097591 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.868000 SD 0.112143 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.872000 SD 0.109618 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.844000 SD 0.113420 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.863000 SD 0.108310 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.838000 SD 0.107499 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.930000 SD 0.074162 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.995000 SD 0.021795 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.965000 SD 0.062249 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.965000 SD 0.051720 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.966000 SD 0.055172 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.971000 SD 0.055308 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.965000 SD 0.057228 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.661000 SD 0.122389 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.688000 SD 0.103228 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.033630 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.485000 SD 0.038406 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.491000 SD 0.028618 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.036483 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.033630 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.486000 SD 0.037470 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.490000 SD 0.030000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.482000 SD 0.043313 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.488000 SD 0.032496 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.492000 SD 0.027129 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.481000 SD 0.044034 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.480000 SD 0.050990 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.495000 SD 0.021794 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.490000 SD 0.030000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.488000 SD 0.035440 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.484000 SD 0.036661 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.484000 SD 0.041761 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.485000 SD 0.035707 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.039128 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.485000 SD 0.035707 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.477000 SD 0.042083 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.481000 SD 0.039230 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.481000 SD 0.041701 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.489000 SD 0.031289 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.484000 SD 0.036661 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.039128 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.487000 SD 0.033630 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.482000 SD 0.043313 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.488000 SD 0.035440 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.489000 SD 0.031289 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.490000 SD 0.030000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.489000 SD 0.031289 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.976000 SD 0.044989 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.457000 SD 0.058745 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.460000 SD 0.058310 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.470000 SD 0.045826 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.477000 SD 0.044396 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.462000 SD 0.062897 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.468000 SD 0.052688 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.460000 SD 0.060000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.468000 SD 0.054553 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.464000 SD 0.052000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.053329 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.465000 SD 0.055453 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.468000 SD 0.052688 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.464000 SD 0.060861 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.063592 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.469000 SD 0.048363 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.461000 SD 0.058129 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.472000 SD 0.049153 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.458000 SD 0.063530 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.463000 SD 0.055955 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.452000 SD 0.067052 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.467000 SD 0.053019 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.470000 SD 0.057446 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.474000 SD 0.048208 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.463000 SD 0.061082 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.460000 SD 0.066332 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.462000 SD 0.054369 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.453000 SD 0.068491 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.467000 SD 0.054873 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.058686 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.450000 SD 0.065574 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.456000 SD 0.063750 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.458000 SD 0.065085 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.471000 SD 0.051566 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.456000 SD 0.063749 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.470000 SD 0.053852 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.459000 SD 0.056736 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.456000 SD 0.063750 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.463000 SD 0.052259 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.062000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.457000 SD 0.062056 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.460000 SD 0.060000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.463000 SD 0.054139 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.463000 SD 0.061082 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.458000 SD 0.061935 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.468000 SD 0.059800 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.453000 SD 0.060754 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.055172 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.458000 SD 0.060299 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.053329 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.453000 SD 0.063961 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.471000 SD 0.051566 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.462000 SD 0.054369 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.460000 SD 0.067823 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.466000 SD 0.055172 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.458000 SD 0.065085 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 4.350000 SD 17.272142 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 102.750000 SD 20.716841 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 18.166667 SD 27.597812 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 0.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 132.000000 SD 18.734994 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 73.333333 SD 19.436512 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 88.666667 SD 11.518098 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 100.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 90.833333 SD 11.149236 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 90.166667 SD 11.079257 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 88.500000 SD 12.178075 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 21.333333 SD 30.648542 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 28.114478 SD 39.896491 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 36.531987 SD 38.100000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 37.037037 SD 36.817530 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 33.333333 SD 36.468693 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 90.909091 SD 11.670932 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 92.255892 SD 10.410525 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 89.393939 SD 11.951669 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 88.720539 SD 12.719082 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 89.562290 SD 11.258079 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 88.047138 SD 12.544065 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 89.225589 SD 170.107376 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 90.740741 SD 117.283951 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 86.666667 SD 182.222222 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 78.333333 SD 166.944444 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 93.333333 SD 66.666667 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 86.666667 SD 100.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 86.666667 SD 100.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 93.333333 SD 8.164966 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 91.166667 SD 11.169154 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 85.166667 SD 15.256146 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 60.500000 SD 12.395116 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 74.833333 SD 16.913998 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 79.666667 SD 15.198684 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 75.500000 SD 16.907428 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 81.833333 SD 16.682492 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 83.333333 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 83.333333 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 100.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 29.500000 SD 32.476915 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 100.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 100.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 100.000000 SD 0.000000 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 91.333333 SD 11.421228 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 91.333333 SD 11.661904 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 69.833333 SD 12.844151 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 84.833333 SD 12.268976 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 92.666667 SD 9.809293 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 91.333333 SD 11.661904 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 90.666667 SD 11.860298 
+
+ 05 >> SNN RS >> Iterations 50 >> Time 20s >> Population 30 >> Elite 20 >> Mutation 15 >> Deviation 30 
+ Mean 92.000000 SD 10.666667 

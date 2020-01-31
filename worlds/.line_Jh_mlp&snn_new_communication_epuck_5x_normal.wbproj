@@ -1,0 +1,30 @@
+Webots Project File version R2019a
+perspectives: 000000ff00000000fd00000003000000000000000000000000fc0100000001fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000005400ffffff00000001000006ab000005d7fc0200000001fb0000001400540065007800740045006400690074006f0072010000002f000005d70000010b00ffffff0000000300000f000000019afc0100000001fb0000000e0043006f006e0073006f006c0065010000000000000f000000009500ffffff0000084f000005d700000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff000000010000000200000221000006280100000006010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000fc0100000006010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+selectionDisabled: 0
+viewpointLocked: 0
+orthographicViewHeight: 1
+textFiles: 2 "controllers/mlpGAsupervisor_Jh_4/mlpGAsupervisor_Jh_4.c" "controllers/mlpGA_Jh_4/mlpGA_Jh_4.c" "controllers/mlpGAsupervisor_Jh_5/mlpGAsupervisor_Jh_5.c" "controllers/mlpGA_Jh_5/mlpGA_Jh_5.c"
+renderingDevicePerspectives: Supervisor(1):display;1;1;0.0483962;0.339835
+renderingDevicePerspectives: e-puck(2):camera;1;1;0;0
+renderingDevicePerspectives: Supervisor:display;1;1;0.0462188;0.209908
+renderingDevicePerspectives: Supervisor(2):display;1;1;0.0543094;0.470462
+renderingDevicePerspectives: e-puck:camera;1;1;0;0
+renderingDevicePerspectives: Supervisor(6):display;1;1;0.709391;0.349508
+renderingDevicePerspectives: e-puck(5):camera;1;1;0;0
+renderingDevicePerspectives: Supervisor(5):display;1;1;0.708863;0.2097
+renderingDevicePerspectives: Supervisor(4):display;1;1;0.0497665;0.783648
+renderingDevicePerspectives: Supervisor(8):display;1;1;0.702411;0.672996
+renderingDevicePerspectives: e-puck(6):camera;1;1;0;0
+renderingDevicePerspectives: Supervisor(9):display;1;1;0.704315;0.805907
+renderingDevicePerspectives: e-puck(1):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(7):camera;1;1;0;0
+renderingDevicePerspectives: Supervisor(7):display;1;1;0.706218;0.488045
+renderingDevicePerspectives: Supervisor(3):display;1;1;0.054139;0.644196
+renderingDevicePerspectives: e-puck(3):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(9):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(8):camera;1;1;0;0
+renderingDevicePerspectives: e-puck(4):camera;1;1;0;0
